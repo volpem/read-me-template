@@ -8,7 +8,7 @@
 installing git: sudo apt install git
 
 git status
-git clone <https>
+git clone <https://...>
 
 gitt add *
 
@@ -17,9 +17,11 @@ git pull
 git commit -m “message”
 git push
 
-Solve Merge Konflikt: press “i”, write merge message, press “esc” write “:wq”, press “enter”
+>Solve Merge Konflikt: press “i”, write merge message, press “esc” write “:wq”, press “enter”
 												
-GITHUB: press ‘T’ for fuzzy search
+>GITHUB: press ‘T’ for fuzzy search
+
+>Submodules: git submodule add <https://...>
 
 
 
