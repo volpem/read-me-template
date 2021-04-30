@@ -3,6 +3,24 @@
 ![Project Image](project-image-url)
 
 > This is a ReadMe template to help save you time and effort.
+> GitHub Idiotenseite:
+> installing git: sudo apt install git
+
+git status
+git clone <>
+
+gitt add *
+
+git fetch
+git pull
+git commit -m “message”
+git push
+
+Solve Merge Konflikt: press “i”, write merge message, press “esc” write “:wq”, press “enter”
+												
+GITHUB: press ‘T’ for fuzzy search
+
+
 
 ---
 
