@@ -3,11 +3,12 @@
 ![Project Image](project-image-url)
 
 > This is a ReadMe template to help save you time and effort.
-> GitHub Idiotenseite:
-> installing git: sudo apt install git
+
+#### GitHub Idiotenseite:
+installing git: sudo apt install git
 
 git status
-git clone <>
+git clone <https>
 
 gitt add *
 
