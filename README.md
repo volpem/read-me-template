@@ -25,28 +25,6 @@ GITHUB: press ‘T’ for fuzzy search
 
 ---
 
-#### Conda Environments Idiotenseite:
-
-conda create -n [name] python=3.7
-
-conda activate [name]
-conda deactivate
-conda env list
-
-to create requirements file: conda list -e > req.txt
-conda create --name <env> --file <this file>
-
-
-##### Conda environment in jupyter:
-Jupyter start terminal: jupyter notebook
-
-conda install -c anaconda ipykernel
-python -m ipykernel install --user –name=<env_name>
-jupyter notebook
-
-
----
-
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
