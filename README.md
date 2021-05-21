@@ -33,6 +33,8 @@ git submodule add <https://...>
 ## Create git ignores:
 [gitignore](https://www.toptal.com/developers/gitignore)
 
+---
+---
 
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
