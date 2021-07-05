@@ -114,3 +114,44 @@ SOFTWARE.
 - Website - [James Q Quick](https://jamesqquick.com)
 
 [Back To The Top](#read-me-template)
+
+
+
+
+Our favorite Magic Command **&percnt;md** allows us to render Markdown in a cell:
+* Double click this cell to begin editing it
+* Then hit `Esc` to stop editing
+
+# Title One
+## Title Two
+### Title Three
+
+This is a test of the emergency broadcast system. This is only a test.
+
+This is text with a **bold** word in it.
+
+This is text with an *italicized* word in it.
+
+This is an ordered list
+0. once
+0. two
+0. three
+
+This is an unordered list
+* apples
+* peaches
+* bananas
+
+Links/Embedded HTML: <a href="http://bfy.tw/19zq" target="_blank">What is Markdown?</a>
+
+Images:
+![Spark Engines](https://files.training.databricks.com/images/Apache-Spark-Logo_TM_200px.png)
+
+And of course, tables:
+
+| Name  | Age | Sex    |
+|-------|-----|--------|
+| Tom   | 32  | Male   |
+| Mary  | 29  | Female |
+| Dick  | 73  | Male   |
+| Sally | 55  | Female |
